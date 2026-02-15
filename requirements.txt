@@ -1,0 +1,7 @@
+python-telegram-bot
+yfinance
+pandas
+numpy
+transformers
+torch
+python-dotenvzx,
