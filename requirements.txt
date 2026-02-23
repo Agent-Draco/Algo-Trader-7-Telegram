@@ -4,4 +4,4 @@ pandas
 numpy
 transformers
 torch
-python-dotenvzx,
+python-dotenv
